@@ -1,0 +1,83 @@
+
+{
+  "hotel":[
+    {
+      "hotelName": "Amangiri",
+      "room":[
+        {
+        "name":"The Amangiri Suite",
+        "description":"The 150-square-metre (1,614 square feet) Desert Pool Suites offer large private plunge pools and sky terraces ideal for night stargazing",
+        "cost":{"weekend":"$430.00", "weekday":"$225.00"},
+        "details":["Desert Views","Private swimming pool","Fire private","Private sky terrace with large day bed","Private courtyard entrance and breezeway","King size bed","Bathroom with twin rain showers","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning, underfloor heating","Personal bar"],
+        "photo":"images/amangiri-room1.jpg"
+        },
+        {
+        "name":"Mesa Pool Suite",
+        "description":"The 146-square-metre (1,572 square feet) Mesa Pool Suites feature a private plunge pool and sky terrace that catch the rose-gold sunsets over the Utah desert",
+        "cost":{"weekend":"$490.00", "weekday":"$225.00"},
+        "details":["Mesa and sunset views","Private plunge pool","Private terrace with fireplace","Private sky terrace with day bed","Private courtyard entrance with large daybed","King-size bed","Bathroom with soaking tub, twin vanities, dressing area","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning, underfloor heating","Personal bar"],
+        "photo":"images/amangiri-room2.jpg"
+        },
+        {
+        "name":"Desert Pool Suite",
+        "description":"The 150-square-metre (1,614 square feet) Desert Pool Suites offer large private plunge pools and sky terraces ideal for night stargazing",
+        "cost":{"weekend":"$820.00", "weekday":"$410.00"},
+        "details":["Dune and desert plateau views","Private plunge pool","Private terrace with fireplace","Private sky terrace with daybed","Private courtyard entrance with large daybed","King-size bed","Twin rain showers, separate toilet","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning, underfloor heating","Personal bar"],
+        "photo":"images/amangiri-room3.jpg"
+        }
+      ]
+    },
+    {
+      "hotelName": "Hyatt Andaz",
+      "room":[
+        {
+          "name":"The Standard Suite",
+             "description":"Step into your Maui hotel Standard suite at our Wailea resort, and you’ll feel like you’re a world away, yet right at home. Entertain on your own outdoor lanai with a Viking grill and take a dip in your private plunge pool with views of the Pacific Ocean.",
+             "cost":{"weekend":"$550.00", "weekday":"$395.00"},
+             "details":["Ocean views","Private swimming pool","King-size bed","Bathroom with rain showers, soaking tub","Twin vanities, dressing areas","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning","Personal bar"],
+             "photo":"images/Andaz-room1.jpg"
+             },
+             {
+             "name":"Oceanfront View",
+             "description":"Refreshing Haleakala full Ocean Views that will have you coming back time and time again. Enjoy sunsets every evening on your very own private deck with amazing ocean views.",
+             "cost":{"weekend":"$690.00", "weekday":"$445.00"},
+             "details":["Ocean and sunset views","Private plunge pool","Private terrace with fireplace","Large personal day bed","King-size bed","Bathroom with soaking tub, twin vanities, dressing area","Twin rain showers, separate toilet","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning","Personal bar"],
+             "photo":"images/Andaz-room2.jpg"
+             },
+             {
+             "name":"The Villa",
+             "description":"Residential-style beach villas with multiple bedrooms, living room, gourmet kitchen and private outdoor space with plunge pool or Jacuzzi.",
+             "cost":{"weekend":"$980.00", "weekday":"$720.00"},
+             "details":["Spectacular ocean views","Private plunge pool","Private terrace with fireplace","Private sky terrace with daybed","Private courtyard entrance with large daybed","King-size bed","Twin rain showers, separate toilet","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning, underfloor heating","Personal bar"],
+             "photo":"images/Andaz-room3.jpg"
+        }
+      ]
+    },
+    {
+      "hotelName": "Le Blanc Spa Resort",
+      "room":[
+        {
+          "name":"Deluxe Room",
+             "description":"The 150-square-metre (1,614 square feet) Deluxe room offers a large private jacuzzi with a private balcony overlooking the beautiful ocean and sunset.",
+             "cost":{"weekend":"$330.00", "weekday":"$225.00"},
+             "details":["Ocean views","Private sky terrace with large day bed","Private courtyard entrance and breezeway","King size bed","Bathroom with twin rain showers","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning","Personal bar"],
+             "photo":"images/leblanc-room1.jpg"
+             },
+             {
+             "name":"Honeymoon Room",
+             "description":"The 146-square-metre (1,572 square feet) Honeymoon Room features a private plunge pool and sky terrace that catch the rose-gold sunsets over the Gulf of Mexico.",
+             "cost":{"weekend":"$420.00", "weekday":"$325.00"},
+             "details":["Ocean and pool views","Private terrace with fireplace","Private sky terrace with day bed","Private courtyard entrance with large daybed","King-size bed","Bathroom with soaking tub, twin vanities, dressing area","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning","Personal bar"],
+             "photo":"images/leblanc-room2.jpg"
+             },
+             {
+             "name":"Royale Governor Suite",
+             "description":"Residential-style beach villas with multiple bedrooms, living room, gourmet kitchen and private outdoor space with plunge pool or Jacuzzi.",
+             "cost":{"weekend":"$980.00", "weekday":"$720.00"},
+             "details":["360 degree views","Private plunge pool","Private terrace with fireplace","Private sky terrace with daybed","Private courtyard entrance with large daybed","King-size bed","Twin rain showers, separate toilet","Wi-Fi, TV, DVD player, sound system, safe","Air-conditioning, underfloor heating","Personal bar"],
+             "photo":"images/leblanc-room3.jpg"
+        }
+      ]
+    }
+  ]
+}
